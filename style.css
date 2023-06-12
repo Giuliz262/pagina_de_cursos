@@ -3,5 +3,16 @@ img{
 }
 
 .fondo{
-    background-color: black;
+    background-image: url(image/fondo.webp) ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+footer{
+    text-align: center;
+    color: white;
 }
